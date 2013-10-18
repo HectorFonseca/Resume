@@ -9,11 +9,11 @@ SKILLS and QUALIFICATIONS
 * Over ten years of Program Management (PM) experience, driving small, medium and large complex projects across a large organization delivering results on time and within budget
 	* Experience working with stakeholders, gathering business requirements and translating them into software designs and specifications for new functionality
 	* Building and monitoring metrics to drive and measure projects’ progress as well as maintain accountability across teams and discover areas of improvement.  Extracting and analyzing data using various data management systems and reporting tools, to make sound business decisions 
-* Ability to effectively partner with internal and external cross-discipline teams (Engineering, Development, Test, Localization, Globalization, Operations, Executive Management), to enhance and identify system improvements and drive all project management aspects
-* Excellent written and oral communication skills, including the ability to report and communicate across different business areas within the organization
-* Self-starter with a passion for data and process improvements. Ability to work both independently and collaboratively in fast paced and ambiguous environments
-* Experience with Scrum methodology for agile software development 
-> * Proficient in InfoPath, SharePoint, Microsoft Project, Excel and Team Foundation Server
+	* Ability to effectively partner with internal and external cross-discipline teams (Engineering, Development, Test, Localization, Globalization, Operations, Executive Management), to enhance and identify system improvements and drive all project management aspects
+	* Excellent written and oral communication skills, including the ability to report and communicate across different business areas within the organization
+	* Self-starter with a passion for data and process improvements. Ability to work both independently and collaboratively in fast paced and ambiguous environments
+	* Experience with Scrum methodology for agile software development 
+	* Proficient in InfoPath, SharePoint, Microsoft Project, Excel and Team Foundation Server
 
 EMPLOYMENT
 ----------
@@ -38,7 +38,7 @@ EMPLOYMENT
 EDUCATION and CERTIFICATION
 ---------------------------
 ###Bellevue College
-Business Intelligence Analyst Certificate 
+Business Intelligence Analyst Certificate    
 *Anticipated - March 2014*
 
 ###University of Washington
